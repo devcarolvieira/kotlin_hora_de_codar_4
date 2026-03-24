@@ -1,6 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
+    // Estudantes
     var estudantes = mutableListOf("Rebecca", "Matilda", "Olivia", "Fernando", "Natália")
     var resposta: String
 
