@@ -22,7 +22,4 @@ fun main() {
     println(estudantes)
     }
     }while(resposta=="S")
-
-    println("Quantidade total: ${estudantes.size}")
-    println(estudantes)
 }
